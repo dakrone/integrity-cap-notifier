@@ -11,7 +11,7 @@ This lets Integrity deploy your code after a successful build.
 Setup Instructions
 ==================
 
-Just install this gem via `sudo gem install integrity-email` and then in your
+Just install this gem via `sudo gem install dakrone-integrity-cap-notifier` and then in your
 Rackup (ie, `config.ru`) file:
 
     require "rubygems"
